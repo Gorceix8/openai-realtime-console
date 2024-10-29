@@ -734,7 +734,7 @@ export function ConsolePage() {
           <div className="content-block map">
           {/* <img src="https://i.pinimg.com/control/564x/b4/de/14/b4de142ecd12c0fcfa7e122849036fa4.jpg" alt="Pinterest Image" /> */}
           {/* <img src="https://i.pinimg.com/564x/f0/22/f2/f022f22735d8dd0525459e9f74018909.jpg" alt="Pinterest Image" /> */}
-          <img src="https://i.pinimg.com/564x/b5/b0/87/b5b08770e0cf1303235304c1487295ad.jpg" alt="Pinterest Image" />
+          <img src="https://i.pinimg.com/736x/b7/fa/16/b7fa161a9faddd70569802a6af902cfe.jpg" alt="Pinterest Image" />
           {/* <img src="https://i.pinimg.com/564x/95/38/23/953823fcd00d3e26a45ad4ef71ec57a0.jpg" alt="Pinterest Image" /> */}
           </div>
           <div>
